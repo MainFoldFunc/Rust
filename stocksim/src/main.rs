@@ -1,4 +1,5 @@
 mod addAccount;
+mod app;
 mod loginProcedure;
 use std::io;
 fn main() {
